@@ -1,0 +1,33 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoOEaWP4OMnSVeN8L-mCUs5YrEYXYKJVqR7A&s");
+}
+h3{
+    text-transform: uppercase;
+}
+.link{
+    font-size: 16px;
+    font-style:italic ;
+}
+iframe{
+    height: 600px;
+    width: 100%;
+}
+.header{
+    border-style: solid;
+    background-color: aliceblue;
+}
+.content{
+    background-color: aliceblue;
+    height: 80%;
+    width: 70%;
+}
+.footer{
+    background-color: aliceblue;
+}
+.jobtitle{
+    font-weight: bold;
+    color: maroon;
+}

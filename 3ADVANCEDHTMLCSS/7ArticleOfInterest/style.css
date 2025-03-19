@@ -4,3 +4,10 @@ body{
 .text{
     color: white;
 }
+footer{
+    background-color: grey;
+    border-radius: 10px;
+}
+.middle{
+    text-align: center;
+}

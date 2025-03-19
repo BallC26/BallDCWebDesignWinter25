@@ -15,16 +15,16 @@ iframe{
     height: 600px;
     width: 100%;
 }
-.header{
+header{
     border-style: solid;
     background-color: aliceblue;
 }
-.content{
+main{
     background-color: aliceblue;
     height: 80%;
     width: 70%;
 }
-.footer{
+footer{
     background-color: aliceblue;
 }
 .jobtitle{

@@ -23,12 +23,24 @@ main{
     background-color: aliceblue;
     height: 80%;
     width: 70%;
+    margin: 15px;
+    padding: 10px;
 }
 footer{
     background-color: aliceblue;
     text-align: center;
+    margin: 50px;
+    padding: 10px;
 }
 .jobtitle{
     font-weight: bold;
     color: maroon;
+}
+.large-list{
+    font-size: 25px;
+    font-weight: bold;
+}
+ol ul{
+    font-size: 18px;
+    font-weight: normal;
 }

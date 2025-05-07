@@ -1,0 +1,30 @@
+img {
+    height: 300px;  
+}
+
+img.filtered-image {
+    animation: sepiaFilter 5s forwards;
+}
+img.blurred-image {
+    animation: blurredFilter 5s forwards;
+}
+
+@keyframes sepiaFilter {
+    from {
+        filter: sepia(0%);
+    }
+    
+    to {
+        filter: sepia(100%);
+    }
+}
+@keyframes blurredFilter{
+    from {
+        filter: blur(100px);
+    }
+    
+    to {
+        filter: blur(0px);
+    }
+}
+
